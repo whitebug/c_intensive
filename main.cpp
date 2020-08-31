@@ -27,7 +27,6 @@ void bot(string text) {
 }
 
 int main() {
-    // our dictionary
     unordered_map<string, string> database = {
             {"hello", "Oh, hello to you human"},
             {"how are you", "I'm good"},
